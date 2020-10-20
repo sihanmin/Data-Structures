@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/MapLoader.cpp"
+            timestampString = "511418165.390041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "MapLoaderImpl::load(string mapFile)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "NavigatorImpl::organizeDirections(vector&lt;Node&gt; *close, int cur, vector&lt;NavSegment&gt; &amp;directions)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigatorImpl::findPath(GeoCoord&amp;, GeoCoord&amp;, std::__1::priority_queue&lt;NavigatorImpl::Node, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;, std::__1::less&lt;NavigatorImpl::Node&gt; &gt;*, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;*, int&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/Navigator.cpp"
+                  timestampString = "511334884.099042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "2867">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigatorImpl::findPath(GeoCoord&amp;, GeoCoord&amp;, std::__1::priority_queue&lt;NavigatorImpl::Node, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;, std::__1::less&lt;NavigatorImpl::Node&gt; &gt;*, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;*, int&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/Navigator.cpp"
+                  timestampString = "511334884.101392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "4970">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigatorImpl::findPath(GeoCoord&amp;, GeoCoord&amp;, std::__1::priority_queue&lt;NavigatorImpl::Node, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;, std::__1::less&lt;NavigatorImpl::Node&gt; &gt;*, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;*, int&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/Navigator.cpp"
+                  timestampString = "511334884.105084"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "4990">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigatorImpl::findPath(GeoCoord&amp;, GeoCoord&amp;, std::__1::priority_queue&lt;NavigatorImpl::Node, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;, std::__1::less&lt;NavigatorImpl::Node&gt; &gt;*, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;*, int&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/Navigator.cpp"
+                  timestampString = "511334884.107399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "6410">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigatorImpl::findPath(GeoCoord&amp;, GeoCoord&amp;, std::__1::priority_queue&lt;NavigatorImpl::Node, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;, std::__1::less&lt;NavigatorImpl::Node&gt; &gt;*, std::__1::vector&lt;NavigatorImpl::Node, std::__1::allocator&lt;NavigatorImpl::Node&gt; &gt;*, int&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/Navigator.cpp"
+                  timestampString = "511334884.109895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "13552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511384429.440462"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "NavigatorImpl::organizeDirections(vector&lt;Node&gt; *close, int cur, vector&lt;NavSegment&gt; &amp;directions)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511386454.288766"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/AttractionMapper.cpp"
+            timestampString = "511417669.563387"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "AttractionMapperImpl::init(const MapLoader&amp; ml)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "NavigatorImpl::organizeDirections(vector&lt;Node&gt; *close, int cur, vector&lt;NavSegment&gt; &amp;directions)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511399773.28947"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511399818.133682"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511399826.346788"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416356.836918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/SegmentMapper.cpp"
+            timestampString = "511400830.532717"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "SegmentMapperImpl::getSegments(const GeoCoord&amp; gc)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/SegmentMapper.cpp"
+            timestampString = "511400914.404391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "SegmentMapperImpl::init(const MapLoader&amp; ml)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/SegmentMapper.cpp"
+            timestampString = "511401063.536714"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "SegmentMapperImpl::addAssociate(string coor, StreetSegment street)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/MapLoader.cpp"
+            timestampString = "511401911.436048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "MapLoaderImpl::load(string mapFile)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416485.223838"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "NavigatorImpl::findPath(GeoCoord &amp;start, GeoCoord &amp;end, priority_queue&lt;Node&gt;* open, vector&lt;Node&gt; *close, int &amp;last)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/Navigator.cpp"
+            timestampString = "511416495.730573"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "NavigatorImpl::navigate(string start, string end, vector&lt;NavSegment&gt; &amp;directions)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project4/MyMap.h"
+            timestampString = "511416971.144617"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "find(const KeyType&amp; key)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, int&gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/MyMap.h"
+                  timestampString = "511416616.208354"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, GeoCoord&gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/MyMap.h"
+                  timestampString = "511416616.211798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMap&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::vector&lt;StreetSegment, std::__1::allocator&lt;StreetSegment&gt; &gt; &gt;::find(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;) const"
+                  moduleName = "Project4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mintmsh/Desktop/CS32/Project4/Project4/MyMap.h"
+                  timestampString = "511416616.214807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
